@@ -8,36 +8,36 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about **Artificial Intelligence for Education**
-- 🇻🇳 Building tools that make **English language learning easier** for Vietnamese students
-- 🧪 Currently exploring and building projects using:
-  - 🐍 **Python**
-  - 📒 **Jupyter Notebooks**
-  - 🔷 **TypeScript**
+- Passionate about **Artificial Intelligence for Education**
+- Building tools that make **English language learning easier** for Vietnamese students
+- Currently exploring and building projects using:
+  + **Python**
+  + **Jupyter Notebooks**
+  + **TypeScript**
 
 ---
 
 ### 🔭 Current Projects
 
-- 📚 Developing an AI model that evaluates IELTS Writing tasks using GPT and Hugging Face datasets
-- 🧠 Creating personalized grammar exercises and vocabulary tools for English learners
-- 🧩 Exploring Retrieval-Augmented Generation (RAG) and LangChain to build AI tutors
+- Developing an AI model that evaluates IELTS Writing tasks using GPT and Hugging Face datasets
+- Creating personalized grammar exercises and vocabulary tools for English learners
+- Exploring Retrieval-Augmented Generation (RAG) and LangChain to build AI tutors
 
 ---
 
 ### 🤝 I’m Open to Collaborate On
 
-- ✨ EdTech projects, especially language learning platforms
-- 🔍 NLP tasks related to education
-- 🤖 AI tools for improving personalized learning
+- EdTech projects, especially language learning platforms
+- NLP tasks related to education
+- AI tools for improving personalized learning
 
 ---
 
 ### 📫 Reach Me
 
-- 💌 Email: [xuanphuctran269@gmail.com](mailto:xuanphuctran269@gmail.com)
-- 🌐 Portfolio: _Coming soon!_
-- 🔗 LinkedIn: [linkedin.com/in/xuanphuc269]([https://linkedin.com/in/xuanphuc26](https://www.linkedin.com/in/xu%C3%A2n-ph%C3%BAc-tr%E1%BA%A7n-2456701ba/)9)
+- Email: [xuanphuctran269@gmail.com](mailto:xuanphuctran269@gmail.com)
+- Portfolio: _Coming soon!_
+- LinkedIn: [linkedin.com/in/xuanphuc269]([https://linkedin.com/in/xuanphuc26](https://www.linkedin.com/in/xu%C3%A2n-ph%C3%BAc-tr%E1%BA%A7n-2456701ba/)9)
 
 ---
 
