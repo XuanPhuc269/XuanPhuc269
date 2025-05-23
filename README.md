@@ -37,7 +37,6 @@
 
 - Email: [xuanphuctran269@gmail.com](mailto:xuanphuctran269@gmail.com)
 - Portfolio: _Coming soon!_
-- LinkedIn: [linkedin.com/in/xuanphuc269]([https://linkedin.com/in/xuanphuc26](https://www.linkedin.com/in/xu%C3%A2n-ph%C3%BAc-tr%E1%BA%A7n-2456701ba/)9)
 
 ---
 
